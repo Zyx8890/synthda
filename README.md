@@ -8,7 +8,8 @@ rendering full photorealistic frames. The framework is designed to fill
 minority-class gaps in action-recognition datasets with minimal compute and no
 extra sensors.
 
-By: Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
+Project By:   
+Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Indriyati Atmosukarto, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
 A collaboration between NVAITC-APS and Singapore Institute of Technology   
 
 ![Meg_Blueprint_asd-meg_asd drawio](https://github.com/user-attachments/assets/dfa7c368-23a2-4206-9a5a-5803cfc0fd4f)
