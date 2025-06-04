@@ -21,12 +21,11 @@ A collaboration between NVAITC-APS and Singapore Institute of Technology
 
 ## Why Pose-Level Augmentation?
 
-| Capability                  | Image/Video GANs | **AutoSynthDA (Pose)** |
+| Capability                  | Image/Video GANs | **AutoSynthDa (Pose)** |
 |-----------------------------|------------------|------------------------|
 | Fine-grained motion control | ❌              | ✅                     |
 | Independence from textures  | ❌              | ✅                     |
-| Render-engine dependency    | High             | None                   |
-| Semantic label fidelity     | Medium           | High                   |
+| Maintaining Semantic labels | Medium           | High                   |
 
 *Pose-level synthesis keeps the joint semantics explicit, reduces visual
 artifacts, and allows fast generation on commodity GPUs.*
