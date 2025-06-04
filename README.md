@@ -2,7 +2,7 @@
 Pose-Level Synthetic Data Augmentation for Action Recognition
 =============================================================
 
-AutoSynthDA is an open-source toolkit that generates class-balanced,
+AutoSynthDa (aka SynthDa) is an open-source toolkit that generates class-balanced,
 kinematically valid video clips by **interpolating human poses** rather than
 rendering full photorealistic frames. The framework is designed to fill
 minority-class gaps in action-recognition datasets with minimal compute and no
