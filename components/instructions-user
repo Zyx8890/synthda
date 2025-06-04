@@ -1,0 +1,83 @@
+- overall_notebook/
+  |---- dataset/
+  |      |---- videos/
+  |             |---- 04.mp4
+  |             |---- 12.mp4
+  |      |---- videos_generated/
+  |      |---- 04/
+  |      |---- 12/
+  |
+  |---- optimisation/
+  |      |---- optimisation_both_real/
+  |      |---- optimisation_real_synth/
+  |
+  |---- video_processing/
+  |      |---- models/
+  |      |---- motioncaptioning/
+  |      |---- utils/
+  |      |---- YoutubeVideoDL/
+  |
+  |---- exploration/
+  |---- both_real_main.py
+  |---- syn_real_main.py
+  |---- weights_computations.py
+  |
+  |---- dataset_tests/
+  |      |---- videos/
+  |             |---- 04.mp4
+  |             |---- 12.mp4
+  |             |---- youtube_video.mp4
+  |      |---- videos_generated/
+  |      |---- 12_04/
+  |      |---- youtube_video_12/
+  |      |---- youtube_video_04/
+  |
+
+1️⃣ Declare the file paths in main.py to the respective repository directories.
+2️⃣ Place your .mp4 videos inside the dataset/videos folder.
+3️⃣ Run syn_real_main.py.
+
+🚀 Once you syn_real_main.py or both_real_main.py, the script will automatically create and organize all necessary files and folders inside the dataset/ directory. No manual setup is required beyond placing the input videos.
+
+# Variable Configuration
+The **seed value** is used to control the randomness in the selection process.  
+
+number_of_videos_desired to control how many videos to be produced
+
+
+# File Paths Configuration
+
+## 📌 Paths Defined in `syn_real_main.py` and `both_real_main.py`
+
+1️⃣ **StridedTransformer-Pose3D Repository Path**  
+   📂 `/home/krispy_noodles/SynthDa/exploration/StridedTransformer-Pose3D`
+
+2️⃣ **Text-to-Motion Repository Path**  
+   📂 `/home/krispy_noodles/SynthDa/text-to-motion`
+
+3️⃣ **Directory Containing MP4 Videos**  
+   📂 `./dataset/videos` (Original video files)  
+   🗂 **Variable Name:** `videos_path`  
+   🗂 **Converted to Path Object:** `video_directory = Path(videos_path)`
+
+4️⃣ **Root Dataset Directory for Results & Extracted Data**  
+   📂 `./dataset`  
+   🗂 **Variable Name:** `output_directory = Path("./dataset")`
+
+---
+
+## 📌 Paths Defined in `weights_computations.py`
+
+1️⃣ **Join2SMPL Folder Path**  
+   📂 `/home/krispy_noodles/SynthDa/joints2smpl`  
+   🗂 **Variable Name:** `join2smpl_path`
+
+2️⃣ **Blender Folder Path**  
+   📂 `/home/krispy_noodles/SynthDa/blender-4.2.0-linux-x64`  
+   🗂 **Variable Name:** `blender_path`
+
+3️⃣ **ONNX File Path**  
+   📂 `/home/krispy_noodles/SynthDa/overall_notebook/rgb_resnet18_3.onnx`  
+   🗂 **Variable Name:** `onnx_file_path`
+
+
