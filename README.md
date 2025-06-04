@@ -28,7 +28,9 @@ A collaboration between NVAITC-APS and Singapore Institute of Technology
 | Maintaining Semantic labels | Medium           | High                   |
 
 *Pose-level synthesis keeps the joint semantics explicit, reduces visual
-artifacts, and allows fast generation on commodity GPUs.*
+artifacts, and allows customizable generation speed and quality on NVIDIA GPUs.*  
+
+Note that this code has only been developed and tested with NVIDIA GPUs  
 
 ---
 
