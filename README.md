@@ -1,6 +1,8 @@
 # AutoSynthDa, the final stage for Project SynthDa  
-Pose-Level Synthetic Data Augmentation for Action Recognition
+Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
 =============================================================
+
+#### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.  
 
 AutoSynthDa (aka SynthDa) is an open-source toolkit that generates class-balanced,
 kinematically valid video clips by **interpolating human poses** rather than
