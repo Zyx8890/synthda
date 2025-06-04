@@ -8,6 +8,8 @@ rendering full photorealistic frames. The framework is designed to fill
 minority-class gaps in action-recognition datasets with minimal compute and no
 extra sensors.
 
+### See our Wiki Page for more customization options.  
+
 Project By:   
 Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Indriyati Atmosukarto, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
 A collaboration between NVAITC-APS and Singapore Institute of Technology   
