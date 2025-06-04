@@ -281,22 +281,22 @@ Alternatively, if the `.ply` object folder has already been created, you can con
 
 ---
 
-📌 For detailed model download instructions, refer to the **documentation pages** of each repository.
+📌 For detailed model download instructions, refer to the **documentation pages** of each repository.  
 
 
-## 🔧 General Troubleshooting
-❌ Error: File path of the different repos are not found
+## 🔧 General Troubleshooting  
+❌ Error: File path of the different repos are not found  
 This error occurs due to the codebase's inability to retrieve the variables from the `.env` file.
 
-**✅ Suggested Solution**  
+**✅ Suggested Solution**    
 Add the variables directly into the codebase or create a separate Python file to store the folder path variables.
 
 ---
 
-❌ Error: Python not recognized
-This error occurs when the environment is set up to run python files using `python3 test.py` instead of `python test.py`. The repository expects Python files to be run with the `python` command. If `python` is not mapped to `python3`, the script may fail to execute correctly.
+❌ Error: Python not recognized  
+This error occurs when the environment is set up to run python files using `python3 test.py` instead of `python test.py`. The repository expects Python files to be run with the `python` command. If `python` is not mapped to `python3`, the script may fail to execute correctly.  
 
-**✅ Suggested Solution**  
+**✅ Suggested Solution**    
 Reassign the `python` command to point to `python3` using the following command:
 
 `sudo ln -s $(which python3) /usr/local/bin/python`
