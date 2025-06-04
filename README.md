@@ -27,12 +27,12 @@ A collaboration between NVAITC-APS and Singapore Institute of Technology
 |-----------------------------|------------------|------------------------|
 | Fine-grained motion control | ❌              | ✅                     |
 | Independence from textures  | ❌              | ✅                     |
-| Maintaining Semantic labels | Medium           | High                   |
+| Maintaining Semantic labels | Medium           | Improved               |
 
-*Pose-level synthesis keeps the joint semantics explicit, reduces visual
+*Pose-level synthesis potentially keeps the joint semantics explicit, reduces visual
 artifacts, and allows customizable generation speed and quality on NVIDIA GPUs.*  
 
-Note that this code has only been developed and tested with NVIDIA GPUs  
+Note that this code has only been developed and tested with NVIDIA Processors  
 
 ---
 
