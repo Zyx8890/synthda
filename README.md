@@ -1,4 +1,4 @@
-# AutoSynthDa, the latest from Project SynthDa  
+# AutoSynthDa, under Project SynthDa  
 Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
 =============================================================
 
