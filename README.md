@@ -9,7 +9,7 @@ SynthDa (aka AutoSynthDa) is an open-source toolkit that generates class-balance
 kinematically valid video clips by automatically **interpolating human poses** rather than
 rendering full photorealistic frames. The framework is designed to mitigate the issue of imbalanced datasets by creating synthetic data for minority action classes in action-recognition datasets without the need for additional sensors/modality. This only uses RGB videos to generate synthetic videos.  
 
-Each component of our proposed framework, can be swapped with models of your choice / components of your choice.  For the augmentation optimization loop, we have used [action recognition net](https://github.com/NVIDIA/tao_tutorials/tree/main/notebooks/tao_launcher_starter_kit/action_recognition_net) from NVIDIA TAO Toolkit.  
+Each component of our proposed framework, can be swapped with models of your choice / components of your choice.  For the augmentation optimization loop, we have used [action recognition net](https://github.com/NVIDIA/tao_tutorials/tree/main/notebooks/tao_launcher_starter_kit/action_recognition_net) from NVIDIA TAO Toolkit.  We provided each of the components, to be used individually or stringed together/automated yourself for your specific use-case. Our purpose is to enable improved synthetic data generation for human actions.
 
 ### See our [Wiki Page](https://github.com/NVIDIA/synthda/wiki) for more customization options, and the full [Set Up instructions](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa).  
 
@@ -44,8 +44,8 @@ Note that this code has only been developed and tested with NVIDIA Processors
 |------|------------------|-------|
 | **1&nbsp;Install deps** | `pip install -r requirements.txt` | CUDA-enabled PyTorch recommended |
 | **2&nbsp;Clone sub-repos** | `git clone` the five required repos <br>*(see list below)* | Keep the folder names unchanged |
-| **3&nbsp;Create `.env`** | Add your OpenAI key and paths to each repo | Sample `.env.example` provided |
-| **4&nbsp;Download models** | Grab all checkpoints from **<placeholder-link>** | Place files exactly as instructed |
+| **3&nbsp;Create `.env`** | Add your OpenAI key and paths to each repo | No key provided, you will need to add your own |
+| **4&nbsp;Download models** | Grab all checkpoints from [**setup wiki**](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa) | Place files exactly as instructed |
 | **5&nbsp;Smoke-test** | Run each repo’s test script once | Fail-fast before running the full pipeline |
 
 ### Required External Repositories
