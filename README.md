@@ -25,8 +25,8 @@ A collaboration between NVAITC-APS and Singapore Institute of Technology
 
 | Capability                  | Image/Video GANs | **AutoSynthDa (Pose)** |
 |-----------------------------|------------------|------------------------|
-| Fine-grained motion control | Low-Medium           | ✅ Improved           |
-| Independence from textures  | Low           | ✅ Improved           |
+| Fine-grained motion control | Low-Medium       | ✅ Improved           |
+| Independence from textures  | Low              | ✅ Improved           |
 | Maintaining Semantic labels | Medium           | ✅ Improved           |
 
 *Pose-level synthesis potentially keeps the joint semantics explicit, reduces visual
