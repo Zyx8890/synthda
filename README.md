@@ -8,7 +8,7 @@ AutoSynthDa (aka SynthDa) is an open-source toolkit that generates class-balance
 kinematically valid video clips by **interpolating human poses** rather than
 rendering full photorealistic frames. The framework is designed to mitigate the issue of imbalanced datasets by creating synthetic data for minority action classes in action-recognition datasets without the need for additional sensors/modality. This only uses RGB videos.  
 
-### See our [Wiki Page](https://github.com/NVIDIA/synthda/wiki) for more customization options.  
+### See our [Wiki Page](https://github.com/NVIDIA/synthda/wiki) for more customization options, and the Set Up instructions.  
 
 Project By:   
 Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Indriyati Atmosukarto, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
