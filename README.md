@@ -36,6 +36,16 @@ artifacts, and allows customizable generation speed and quality on NVIDIA GPUs.*
 Note that this code has only been developed and tested with NVIDIA Processors  
 
 ---
+## Related Publications
+| Year | Reference                                                                                  | Link                                       |
+| ---- | ------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| 2024 | Designing a Usable Framework for Diverse Users in Synthetic Human Action Data Generation (Siggraph Asia '24)                                      | [Link](https://dl.acm.org/doi/full/10.1145/3681758.3697986)|
+| 2024 | Review on synergizing the Metaverse and AI-driven synthetic data: enhancing virtual realms and activity recognition in computer vision (Springer) | [Link](https://link.springer.com/article/10.1007/s44267-024-00059-6) |
+| 2023 | SynthDa: Exploiting Existing Real-World Data for Usable and Accessible Synthetic Data Generation  (Siggraph Asia '23)                             | [Link](https://dl.acm.org/doi/abs/10.1145/3610543.3626168)|
+| 2023 |  Exploring Domain Randomization’s Effect on Synthetic Data for Activity Detection  (MetaCom '23)                                                  | [Link](https://ieeexplore.ieee.org/abstract/document/10271896)|
+| 2022 | SynDa: a novel synthetic data generation pipeline for activity recognition   (ISMAR '22)                                                          | [Link](https://ieeexplore.ieee.org/abstract/document/9974180)|
+
+---
 
 ## Repository Structure
 ## Minimal Setup Checklist
