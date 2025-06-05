@@ -11,7 +11,7 @@ rendering full photorealistic frames. The framework is designed to mitigate the 
 
 Each component of our proposed framework, can be swapped with models of your choice / components of your choice.  For the augmentation optimization loop, we have used [action recognition net](https://github.com/NVIDIA/tao_tutorials/tree/main/notebooks/tao_launcher_starter_kit/action_recognition_net) from NVIDIA TAO Toolkit.  We provided each of the components, to be used individually or stringed together/automated yourself for your specific use-case. Our purpose is to enable improved synthetic data generation for human actions.
 
-### See our [Wiki Page](https://github.com/NVIDIA/synthda/wiki) for more customization options, and the full [Set Up instructions](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa).  
+### See our wiki pages for the full [set up instructions](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa) and [customization options](https://github.com/NVIDIA/synthda/wiki)  
 
 Project By:   
 Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Indriyati Atmosukarto, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
