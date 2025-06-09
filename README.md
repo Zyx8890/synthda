@@ -57,7 +57,7 @@ Note that this code has only been developed and tested with NVIDIA Processors
 | **3&nbsp;Create `.env`** | Add your OpenAI key and paths to each repo | No key provided, you will need to add your own |
 | **4&nbsp;Download models** | Grab all checkpoints from [**setup wiki**](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa) | Place files exactly as instructed |
 | **5&nbsp;Smoke-test** | Run each repo’s test script once | Fail-fast before running the full pipeline |
-| **5&nbsp;Automate Pipeline for your own use case** | Select your choice of CV model for the optimization loop and automate it using our components | Full pipeline automation as designed by user as each use case is different |
+| **6&nbsp;Automate Pipeline for your own use case** | Select your choice of CV model for the optimization loop and automate it using our components | Full pipeline automation as designed by user as each use case is different |
 
 
 ### Required External Repositories
