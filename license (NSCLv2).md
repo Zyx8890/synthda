@@ -1,4 +1,4 @@
-NVIDIA License (NSCL v2)
+NVIDIA License (NSCL v2) For non-commercial (i.e research purposes) only
 
 1. Definitions
 
