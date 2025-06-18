@@ -14,8 +14,9 @@ Each component of our proposed framework, can be swapped with models of your cho
 ### See our wiki pages for the full [set up instructions](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa) and [customization options](https://github.com/NVIDIA/synthda/wiki)  
 
 Project By:   
-Megani Rajendran, Chek Tien Tan, Aik Beng Ng, Indriyati Atmosukarto, Joey Lim Jun Feng, Triston Chan Sheen, Simon See  
-A collaboration between NVAITC-APS and Singapore Institute of Technology   
+Megani Rajendran, Chek Tien Tan (SIT), Aik Beng Ng (NVIDIA),  
+Indriyati Atmosukarto (SIT), Joey Lim Jun Feng (SIT), Triston Chan Sheen (SIT), Simon See (NVIDIA)    
+An NVAITC APS project (NVIDIA). Co-supervised by Singapore Institute of Technology between NVAITC-APS and Singapore Institute of Technology   
    
 
 ---
