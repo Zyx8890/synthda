@@ -16,8 +16,8 @@ Each component of our proposed framework, can be swapped with models of your cho
 Project By:   
 Megani Rajendran (NVIDIA), Chek Tien Tan (SIT), Aik Beng Ng (NVIDIA),  
 Indriyati Atmosukarto (SIT), Joey Lim Jun Feng (SIT), Triston Chan Sheen (SIT), Simon See (NVIDIA)    
-An NVAITC APS project (NVIDIA). Co-supervised by Singapore Institute of Technology between NVAITC-APS and Singapore Institute of Technology     
-
+An NVAITC APS project (NVIDIA).   
+Co-supervised by Singapore Institute of Technology, a collaboration between NVAITC-APS and Singapore Institute of Technology     
 Special thanks: Andrew Grant (NVIDIA)
    
 
