@@ -14,6 +14,12 @@ Each component of our proposed framework, can be swapped with models of your cho
 ### See our wiki pages for the full [set up instructions](https://github.com/NVIDIA/synthda/wiki/Setting-Up-SynthDa) and [customization options](https://github.com/NVIDIA/synthda/wiki) 
 
 ### See our Hugging Face Demo [here](https://huggingface.co/spaces/nvidia/synthda-demo)
+[![Open in Spaces](
+  https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg
+)](
+  [https://huggingface.co/spaces/nvidia/synthda-demo](https://huggingface.co/spaces/nvidia/synthda-demo)
+)
+
 
 Project By:   
 Megani Rajendran (NVIDIA), Chek Tien Tan (SIT), Aik Beng Ng (NVIDIA),  
