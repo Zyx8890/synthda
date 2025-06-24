@@ -17,8 +17,9 @@ Each component of our proposed framework, can be swapped with models of your cho
 [![Open in Spaces](
   https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg
 )](
-  [https://huggingface.co/spaces/nvidia/synthda-demo](https://huggingface.co/spaces/nvidia/synthda-demo)
+  https://huggingface.co/spaces/nvidia/synthda-demo
 )
+
 
 
 Project By:   
