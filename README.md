@@ -2,7 +2,10 @@
 Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
 =============================================================
 
-#### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.  
+#### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.    
+
+
+This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use. 
 
 ![image](https://github.com/user-attachments/assets/1fde62ce-67a6-4673-9341-78da4daa31e4)
 SynthDa (aka AutoSynthDa) is an open-source toolkit that generates class-balanced,
