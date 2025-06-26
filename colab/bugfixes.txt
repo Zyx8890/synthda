@@ -1,0 +1,26 @@
+✅ 1. Replace fit_seq.py with my version
+Assuming your modified version is called fit_seq.py:
+
+________________________________________
+✅ 2. Replace text to motion / utils /plot_script.py with my version
+Assuming you have the updated file named plot_script.py:
+
+________________________________________
+✅ 3. Upload SMPL_NEUTRAL.pkl to the correct folder
+If your file is at SMPL_NEUTRAL.pkl:
+
+Ensure the folder /content/joints2smpl/smpl_models/smpl/ exists. If not:
+python
+CopyEdit
+import os
+os.makedirs("/content/joints2smpl/smpl_models/smpl", exist_ok=True)
+
+________________________________________
+✅ 4. Rename checkpoints folder inside text-to-motion
+You want to:
+●	Rename FILE /content/text-to-motion/checkpoints → /content/text-to-motion/delete_this or rename to something obscure
+
+●	Rename FOLDER /content/text-to-motion/checkpoints1 → /content/text-to-motion/checkpoints
+✅ 4. Replace animation_pose.py file inside synthda/components with my version
+You want to edit the animation_pose.py such that it will be dynamic and allow us to read the renders from dynamic locations
+
