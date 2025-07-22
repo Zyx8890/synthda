@@ -30,7 +30,7 @@ Each component of our proposed framework can be swapped with models of your choi
 
 An NVAITC APS project (NVIDIA). Co-supervised by Singapore Institute of Technology, a collaboration between NVAITC-APS and Singapore Institute of Technology  
 
-Special thanks: Andrew Grant (NVIDIA)
+**Special thanks:** Andrew Grant (NVIDIA)
 
 ---
 
