@@ -1,3 +1,11 @@
+ # AutoSynthDa, under Project SynthDa  
+Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
+=============================================================
+  
+#### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.
+This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use.
+
+![detailed_synthdablog-demo](https://github.com/user-attachments/assets/7ae09f18-2338-4cf2-ae52-fd569f31380a)
 <a href="https://huggingface.co/spaces/nvidia/synthda-demo"><img 
       src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg" 
       alt="Open in Spaces" 
@@ -6,15 +14,6 @@
     src="https://img.shields.io/badge/Launch-Colab-yellow.svg" 
     alt="Launch Colab" 
     style="height:20px;" /></a>
-    
-# AutoSynthDa, under Project SynthDa  
-Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
-=============================================================
-  
-#### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.
-This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use.
-
-![detailed_synthdablog-demo](https://github.com/user-attachments/assets/7ae09f18-2338-4cf2-ae52-fd569f31380a)
 
 **SynthDa** (aka **AutoSynthDa**) is an open-source toolkit that generates class-balanced, kinematically valid video clips by automatically **interpolating human poses** rather than rendering full photorealistic frames. The framework is designed to mitigate the issue of imbalanced datasets by creating synthetic data for minority action classes in action-recognition datasets without the need for additional sensors/modality. This only uses RGB videos to generate synthetic videos.  
 
