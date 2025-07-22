@@ -1,3 +1,12 @@
+<a href="https://huggingface.co/spaces/nvidia/synthda-demo"><img 
+      src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg" 
+      alt="Open in Spaces" 
+      style="height:20px;" /></a>
+<a href="https://github.com/NVIDIA/synthda/blob/main/colab/brev_demo_generateSynthDa.ipynb"><img 
+    src="https://img.shields.io/badge/Launch-Colab-yellow.svg" 
+    alt="Launch Colab" 
+    style="height:20px;" /></a>
+    
 # AutoSynthDa, under Project SynthDa  
 Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes Only)  
 =============================================================
@@ -14,12 +23,6 @@ Each component of our proposed framework can be swapped with models of your choi
 ![image](https://github.com/user-attachments/assets/1fde62ce-67a6-4673-9341-78da4daa31e4)
 
 ### See our wiki pages for the full [set up instructions](https://github.com/NVIDIA/synthda/wiki/1.-Setting-Up-SynthDa) and [customization options](https://github.com/NVIDIA/synthda/wiki/2.-Customizing-SynthDa)
-
-### See our Hugging Face Demo 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/nvidia/synthda-demo)
-
-### Try our Google Colab Demo to generate a sample synthetic video   
-[![Launch Colab](https://img.shields.io/badge/Launch-Colab-yellow.svg)](https://github.com/NVIDIA/synthda/blob/main/colab/brev_demo_generateSynthDa.ipynb)
 
 ---
 
