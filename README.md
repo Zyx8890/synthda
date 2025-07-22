@@ -3,12 +3,13 @@ Pose-Level Synthetic Data Augmentation for Action Recognition (Research Purposes
 =============================================================
 
 #### Licensed under NSCLv2, where users can use this noncommercially (which means research or evaluation purposes only) on NVIDIA Processors.
-
 This project will download and install additional third-party open source software projects. Review the license terms of these open source projects before use.
+
+![detailed_synthdablog-demo](https://github.com/user-attachments/assets/7ae09f18-2338-4cf2-ae52-fd569f31380a)
 
 ![image](https://github.com/user-attachments/assets/1fde62ce-67a6-4673-9341-78da4daa31e4)
 
-SynthDa (aka AutoSynthDa) is an open-source toolkit that generates class-balanced, kinematically valid video clips by automatically **interpolating human poses** rather than rendering full photorealistic frames. The framework is designed to mitigate the issue of imbalanced datasets by creating synthetic data for minority action classes in action-recognition datasets without the need for additional sensors/modality. This only uses RGB videos to generate synthetic videos.  
+**SynthDa** (aka **AutoSynthDa**) is an open-source toolkit that generates class-balanced, kinematically valid video clips by automatically **interpolating human poses** rather than rendering full photorealistic frames. The framework is designed to mitigate the issue of imbalanced datasets by creating synthetic data for minority action classes in action-recognition datasets without the need for additional sensors/modality. This only uses RGB videos to generate synthetic videos.  
 
 Each component of our proposed framework can be swapped with models of your choice or components of your choice. For the augmentation optimization loop, we have used [action recognition net](https://github.com/NVIDIA/tao_tutorials/tree/main/notebooks/tao_launcher_starter_kit/action_recognition_net) from NVIDIA TAO Toolkit. We provided each of the components to be used individually or stringed together/automated for your specific use case. Our purpose is to enable improved synthetic data generation for human actions.
 
